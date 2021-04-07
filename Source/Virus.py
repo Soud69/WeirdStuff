@@ -31,4 +31,4 @@ logo = """
 """
 print(f"{Fore.CYAN}{logo}")
 print(f"{Fore.GREEN}\n\tInstagram: @8Y\n\tGithub: @Soud69\n\tDiscord: Soud#5866\n\tTelegram: @Soud69{Fore.RED}\n\t[Dont Try To Sell It]\n")
-print(f'You Are {Fore.GREEN}{int(input("Enter Your Tall: "))}cm {Fore.RESET}And {Fore.GREEN}{int(input("Enter Your Weight: "))}kg')
+print(f'You Are {Fore.GREEN}{int(input("Enter Your Tall: "))}cm {Fore.RESET}And {Fore.GREEN}{int(input("Enter Your Weight: "))}kg\n{Fore.RESET}Bye\n')
